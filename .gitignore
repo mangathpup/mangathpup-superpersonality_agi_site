@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python server
+__pycache__/
+*.pyc
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Node / JS (if any)
+node_modules/
+
+# Optional: backup images not needed in repo
+*.bak
